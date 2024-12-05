@@ -22,7 +22,6 @@
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
-    {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
@@ -134,9 +133,9 @@
     {"name":"ChatterboxWait","order":10,"path":"scripts/ChatterboxWait/ChatterboxWait.yy",},
     {"name":"IsChatterbox","order":6,"path":"scripts/IsChatterbox/IsChatterbox.yy",},
     {"name":"Script1","order":1,"path":"scripts/Script1/Script1.yy",},
-    {"name":"MainMenu_Sub","order":1,"path":"sequences/MainMenu_Sub/MainMenu_Sub.yy",},
     {"name":"Background","order":1,"path":"sprites/Background/Background.yy",},
     {"name":"buttonEffect_BG","order":1,"path":"sprites/buttonEffect_BG/buttonEffect_BG.yy",},
+    {"name":"Sprite7","order":1,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"submarinMask","order":2,"path":"sprites/submarinMask/submarinMask.yy",},
   ],
 }
