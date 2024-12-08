@@ -32,6 +32,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Display_Valoranx","order":1,"path":"fonts/Display_Valoranx/Display_Valoranx.yy",},
+    {"name":"BgSub","order":5,"path":"objects/BgSub/BgSub.yy",},
     {"name":"buttonLoadGame","order":1,"path":"objects/buttonLoadGame/buttonLoadGame.yy",},
     {"name":"buttonPlay","order":2,"path":"objects/buttonPlay/buttonPlay.yy",},
     {"name":"MenuText","order":4,"path":"objects/MenuText/MenuText.yy",},
@@ -135,7 +136,6 @@
     {"name":"Script1","order":1,"path":"scripts/Script1/Script1.yy",},
     {"name":"Background","order":1,"path":"sprites/Background/Background.yy",},
     {"name":"buttonEffect_BG","order":1,"path":"sprites/buttonEffect_BG/buttonEffect_BG.yy",},
-    {"name":"Sprite7","order":1,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"submarinMask","order":2,"path":"sprites/submarinMask/submarinMask.yy",},
   ],
 }

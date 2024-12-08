@@ -52,6 +52,7 @@
   "resources":[
     {"id":{"name":"Display_Valoranx","path":"fonts/Display_Valoranx/Display_Valoranx.yy",},},
     {"id":{"name":"Options_Valoranx","path":"fonts/Options_Valoranx/Options_Valoranx.yy",},},
+    {"id":{"name":"BgSub","path":"objects/BgSub/BgSub.yy",},},
     {"id":{"name":"buttonExit","path":"objects/buttonExit/buttonExit.yy",},},
     {"id":{"name":"buttonLoadGame","path":"objects/buttonLoadGame/buttonLoadGame.yy",},},
     {"id":{"name":"buttonPlay","path":"objects/buttonPlay/buttonPlay.yy",},},
@@ -167,7 +168,6 @@
     {"id":{"name":"Black","path":"sprites/Black/Black.yy",},},
     {"id":{"name":"buttonEffect_BG","path":"sprites/buttonEffect_BG/buttonEffect_BG.yy",},},
     {"id":{"name":"Characters","path":"sprites/Characters/Characters.yy",},},
-    {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"Submarine","path":"sprites/Submarine/Submarine.yy",},},
     {"id":{"name":"submarinMask","path":"sprites/submarinMask/submarinMask.yy",},},
   ],
