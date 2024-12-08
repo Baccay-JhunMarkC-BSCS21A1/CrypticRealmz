@@ -1,2 +1,2 @@
 event_inherited();
-room_goto(rm_Game);
+room_goto(rm_Scene1);
