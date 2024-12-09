@@ -78,10 +78,50 @@ label start:
     pause 1.5
     emi "You let me go- You'll let them go..."
     aoi "Emi!"
-
+    window hide
+    pause 3
+    with fade
+    jump PS1
     return
 
+label PS1:
+    window show
+    "*beep beep beep*"
+    window hide
+    pause 1.5
+    window show
+    aoi "-gasp!"
+    window hide
+    scene bg_bunk
+    with fade
+    pause 2.0
+    window show
+    "(Aoi, drenched in sweat, sat up in his bunk clutching the edge of the mattress.)"
+    "(He looked down at his hands—they were trembling. His wedding ring caught the dim light, the cool metal pressing into his skin like a reminder.)"
+    aoi "Emi... I didn't let you go..."
+    window hide
+    pause 1.5
+    window show    
+    "Aoi closed his eyes, steadying his breathing. He knew he wouldn’t sleep again that night."
+    scene black
+    with fade
+    "“You’ll let them go too.”"
+    aoi "..."
+    jump PS3
+        
+    return
 
+label PS3
+    pause 2.0
+    "(The briefing room buzzed with faint murmurs as the Sub/merge crew gathered for their final meeting before the descent. The lights were dim, the screen at the front displaying an artist’s impression of a submerged metropolis, its spires stretching eerily toward the ocean’s surface. Despite the sense of awe the image inspired, the atmosphere was heavy with tension.)"
+    "(Aoi Nishihara sat quietly at the back, his fingers gripping a cup of coffee gone cold. His sharp eyes, lined with dark circles, flicked across the room, scanning his crewmates. They were some of the best in their fields, but he wondered if even their expertise could prepare them for what lay ahead.)"
+    "(At the front of the room, Chief Daichi stood tall, his presence commanding the room's attention. His voice carried a calm confidence, but there was an edge to it, a kind of hunger that Aoi couldn’t ignore.)"
+    scene bg_meetingrm
+    with fade
+    pause 2.0
+    show Daichi
+    "Daichi: Ladies and gentlemen, what we’re about to undertake is unprecedented. This isn’t just another expedition—it’s a journey into the unknown. The city we’re about to explore is unlike anything humanity has ever discovered. It’s ancient, untouched, and, most importantly... it’s ours to uncover."
+    
     # This ends the game.
 
     return
