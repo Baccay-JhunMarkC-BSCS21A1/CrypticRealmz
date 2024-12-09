@@ -24,12 +24,15 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"dialogueTxt","filters":[],"listItems":[],"multiselect":false,"name":"dialogueTxt","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"dialogueTxt","filters":[],"listItems":[],"multiselect":false,"name":"dialogueTxt","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Hi\"","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Dialogue",
+    "path":"sprites/Dialogue/Dialogue.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

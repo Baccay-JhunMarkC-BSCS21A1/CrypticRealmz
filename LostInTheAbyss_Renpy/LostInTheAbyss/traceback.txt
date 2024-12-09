@@ -1,0 +1,84 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/screens.rpy", line 348, in execute
+    screen main_menu():
+  File "game/screens.rpy", line 348, in execute
+    screen main_menu():
+  File "game/screens.rpy", line 361, in execute
+    use navigation
+  File "game/screens.rpy", line 287, in execute
+    screen navigation():
+  File "game/screens.rpy", line 287, in execute
+    screen navigation():
+  File "game/screens.rpy", line 289, in execute
+    vbox:
+  File "game/screens.rpy", line 297, in execute
+    if main_menu:
+  File "game/screens.rpy", line 298, in execute
+    imagebutton auto "gui/MenuText.png" xpos 71 ypos 100
+  File "renpy/common/00defaults.rpy", line 164, in _imagemap_auto_function
+    rv = auto_param % variant
+TypeError: not all arguments converted during string formatting
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in script
+    python hide:
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ast.py", line 827, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\python.py", line 1178, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in <module>
+    python hide:
+  File "renpy/common/_layout/screen_main_menu.rpym", line 35, in _execute_python_hide
+    ui.interact()
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ui.py", line 301, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\display\core.py", line 2215, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\display\core.py", line 2745, in interact_core
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\display\displayable.py", line 434, in visit_all
+    d.visit_all(callback, seen)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\display\screen.py", line 480, in visit_all
+    callback(self)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\display\core.py", line 2745, in <lambda>
+    root_widget.visit_all(lambda d : d.per_interact())
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\display\screen.py", line 491, in per_interact
+    self.update()
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\display\screen.py", line 697, in update
+    self.screen.function(**self.scope)
+  File "game/screens.rpy", line 348, in execute
+    screen main_menu():
+  File "game/screens.rpy", line 348, in execute
+    screen main_menu():
+  File "game/screens.rpy", line 361, in execute
+    use navigation
+  File "game/screens.rpy", line 287, in execute
+    screen navigation():
+  File "game/screens.rpy", line 287, in execute
+    screen navigation():
+  File "game/screens.rpy", line 289, in execute
+    vbox:
+  File "game/screens.rpy", line 297, in execute
+    if main_menu:
+  File "game/screens.rpy", line 298, in execute
+    imagebutton auto "gui/MenuText.png" xpos 71 ypos 100
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ui.py", line 975, in _imagebutton
+    idle = choice(idle, idle_image, "idle", required=True)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ui.py", line 963, in choice
+    rv = renpy.config.imagemap_auto_function(auto, name)
+  File "renpy/common/00defaults.rpy", line 164, in _imagemap_auto_function
+    rv = auto_param % variant
+TypeError: not all arguments converted during string formatting
+
+Windows-10-10.0.22000 AMD64
+Ren'Py 8.3.4.24120703
+LostInTheAbyss 1.0
+Mon Dec  9 20:31:08 2024
