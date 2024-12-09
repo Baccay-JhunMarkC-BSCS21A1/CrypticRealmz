@@ -3,30 +3,84 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
+define aoi = Character("Aoi")
+define emi = Character("Emi")
+define daichi = Character("Daichi")
+
 
 
 # The game starts here.
 
 label start:
+    scene black with fade
 
-    # Show a background. This uses a placeholder by default, but you can
-    # add a file (named either "bg room.png" or "bg room.jpg") to the
-    # images directory to show it.
+    pause 3.0
+    "*sea hushing*"
+    window hide
+    pause 3.0
+    window show
+    aoi "It's cold..."
+    aoi "I better head back to the shore."
+    window hide
+    pause 3.0
+    window show
+    "*muffled sounds*"
+    aoi "??"
+    window hide
+    pause 3.0
+    window show
+    "*laughing*"
+    "???" "You swim like an old man, you know that?"
+    window hide
+    pause 3.0
+    window show
+    aoi "Someone has to be responsible. You get distracted too easily."
 
-    scene bg room
+    "???" "Responsible, huh? That why you keep postponing our trip? I’m starting to think you don’t want to go."
 
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
+    aoi "Emi, it’s not that. It’s just—"
+    window hide
+    pause 1.0
+    scene bg_seashore
+    with fade
+    window show
+    emi "Work. Always work. Aoi, we promised. Somewhere by the sea, remember? Just you and me. No distractions."
+    pause 3.0
+    "Emi approached Aoi with a soft look in her eyes, placing her hand on his."
 
-    show eileen happy
+    emi "Let’s make it happen, okay?"
+    window hide
+    scene black
+    with fade
+    window show
+    "As Aoi opened his mouth to respond, the sunlight began to fade. The warm, golden glow shifted into cold, blinding headlights. A deafening screech of tires filled the air."
+    pause 3.0
+    "*Screech*"
+    pause 1.5
+    aoi "!!!"
+    pause 1.55
+    emi "Aoi-"
+    aoi "Emi! Emi hold on-"
+    window hide
+    pause 3.0
+    window show
+    "The car spun violently, the world tilting and crashing around them. Shards of glass sparkled like stars in the darkness. Aoi reached out, his hand searching for hers."
 
-    # These display lines of dialogue.
+    aoi "*cough* Emi... Emi! Are you okay? Answer me!"
+    window hide
+    pause 3.0
+    window show
+    "*Muffled mumbling*"
+    window hide
+    pause 3.0
+    window show
+    emi "...you promised Aoi! You promised you wouldn't lose me..."
+    pause 1.5
+    emi "You let me go- You'll let them go..."
+    aoi "Emi!"
 
-    e "You've created a new Ren'Py game."
+    return
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
 
     # This ends the game.
 

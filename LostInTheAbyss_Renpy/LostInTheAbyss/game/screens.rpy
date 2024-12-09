@@ -284,8 +284,41 @@ style quick_button_text:
 ## This screen is included in the main and game menus, and provides navigation
 ## to other menus, and to start the game.
 
-screen navigation():
+#screen navigation():
 
+    
+
+style navigation_button is gui_button
+style navigation_button_text is gui_button_text
+
+style navigation_button:
+    size_group "navigation"
+    properties gui.button_properties("navigation_button")
+
+style navigation_button_text:
+    properties gui.text_properties("navigation_button")
+
+
+## Main Menu screen ############################################################
+##
+## Used to display the main menu when Ren'Py starts.
+##
+## https://www.renpy.org/doc/html/screen_special.html#main-menu
+
+screen main_menu():
+
+    ## This ensures that any other menu screen is replaced.
+    tag menu
+
+    add gui.main_menu_background
+
+    ## This empty frame darkens the main menu.
+    #frame:
+    #    style "main_menu_frame"
+
+    ## The use statement includes another screen inside this one. The actual
+    ## contents of the main menu are in the navigation screen.
+    #use navigation
     vbox:
         style_prefix "navigation"
 
@@ -328,39 +361,6 @@ screen navigation():
 
         imagebutton auto "gui/mm_Quit_%s.png" xpos 345 ypos 798 action Quit(confirm=not main_menu)
         imagebutton auto "gui/mm_MenuText_%s.png" xpos 71 ypos -75
-
-style navigation_button is gui_button
-style navigation_button_text is gui_button_text
-
-style navigation_button:
-    size_group "navigation"
-    properties gui.button_properties("navigation_button")
-
-style navigation_button_text:
-    properties gui.text_properties("navigation_button")
-
-
-## Main Menu screen ############################################################
-##
-## Used to display the main menu when Ren'Py starts.
-##
-## https://www.renpy.org/doc/html/screen_special.html#main-menu
-
-screen main_menu():
-
-    ## This ensures that any other menu screen is replaced.
-    tag menu
-
-    add gui.main_menu_background
-
-    ## This empty frame darkens the main menu.
-    #frame:
-    #    style "main_menu_frame"
-
-    ## The use statement includes another screen inside this one. The actual
-    ## contents of the main menu are in the navigation screen.
-    use navigation
-
     if gui.show_name:
 
         vbox:
@@ -469,7 +469,7 @@ screen game_menu(title, scroll=None, yinitial=0.0, spacing=0):
 
                     transclude
 
-    use navigation
+    #use navigation
 
     textbutton _("Return"):
         style "return_button"
