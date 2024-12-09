@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"impC1Diag",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"impC1Diag",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
