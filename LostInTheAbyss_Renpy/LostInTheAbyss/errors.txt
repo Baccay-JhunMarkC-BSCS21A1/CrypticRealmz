@@ -2,7 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 145: Tab characters are not allowed in Ren'Py scripts.
+File "game/script.rpy", line 262: expected 'image_name_component' not found.
+    show
+        ^
 
 Ren'Py Version: Ren'Py 8.3.4.24120703
-Tue Dec 10 00:57:01 2024
+Tue Dec 10 02:26:11 2024
