@@ -2,6 +2,7 @@
 
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
+image Daichi = "Daichi_Suit.png"
 
 define aoi = Character("Aoi")
 define emi = Character("Emi")
@@ -44,11 +45,13 @@ label start:
     scene bg_seashore
     with fade
     window show
+    show Emi
     emi "Work. Always work. Aoi, we promised. Somewhere by the sea, remember? Just you and me. No distractions."
     pause 3.0
     "Emi approached Aoi with a soft look in her eyes, placing her hand on his."
 
     emi "Let’s make it happen, okay?"
+    hide Emi
     window hide
     scene black
     with fade
@@ -107,21 +110,43 @@ label PS1:
     with fade
     "“You’ll let them go too.”"
     aoi "..."
-    jump PS3
+    jump PS2
         
     return
 
-label PS3
+label PS2:
     pause 2.0
-    "(The briefing room buzzed with faint murmurs as the Sub/merge crew gathered for their final meeting before the descent. The lights were dim, the screen at the front displaying an artist’s impression of a submerged metropolis, its spires stretching eerily toward the ocean’s surface. Despite the sense of awe the image inspired, the atmosphere was heavy with tension.)"
-    "(Aoi Nishihara sat quietly at the back, his fingers gripping a cup of coffee gone cold. His sharp eyes, lined with dark circles, flicked across the room, scanning his crewmates. They were some of the best in their fields, but he wondered if even their expertise could prepare them for what lay ahead.)"
+    "(The briefing room buzzed with faint murmurs as the Sub/merge crew gathered for their final meeting before the descent.)"
+    "(The lights were dim, the screen at the front displaying an artist’s impression of a submerged metropolis, its spires stretching eerily toward the ocean’s surface.)"
+    "(Despite the sense of awe the image inspired, the atmosphere was heavy with tension.)"
+    "(Aoi Nishihara sat quietly at the back, his fingers gripping a cup of coffee gone cold. His sharp eyes, lined with dark circles, flicked across the room, scanning his crewmates.)"
+    "(They were some of the best in their fields, but he wondered if even their expertise could prepare them for what lay ahead.)"
     "(At the front of the room, Chief Daichi stood tall, his presence commanding the room's attention. His voice carried a calm confidence, but there was an edge to it, a kind of hunger that Aoi couldn’t ignore.)"
     scene bg_meetingrm
     with fade
     pause 2.0
     show Daichi
-    "Daichi: Ladies and gentlemen, what we’re about to undertake is unprecedented. This isn’t just another expedition—it’s a journey into the unknown. The city we’re about to explore is unlike anything humanity has ever discovered. It’s ancient, untouched, and, most importantly... it’s ours to uncover."
-    
-    # This ends the game.
+    daichi "Ladies and gentlemen, what we’re about to undertake is unprecedented. This isn’t just another expedition—it’s a journey into the unknown. The city we’re about to explore is unlike anything humanity has ever discovered."
+    daichi"It’s ancient, untouched, and, most importantly... it’s ours to uncover."
+    "(The screen shifted to show sonar scans of the submerged city, its sprawling ruins faint but unmistakable.)"
+    daichi "Our government has invested heavily in this mission because of what this city could mean for science, history... and perhaps even our survival."
+    daichi "If the materials we’ve detected are as advanced as they seem, this could redefine our understanding of ancient civilizations—and of humanity itself."
+    hide daichi
+    scene black
+    with fade
+    window hide
+    pause 3.0
+    window show
+    "(The murmurs grew louder as the implications of Daichi’s words settled over the crew. The stakes weren’t just professional—they were monumental.)"
+    "(Aoi leaned back in his chair, his jaw tightening as Daichi spoke. He had been handpicked for this mission, not just for his technical expertise but for his level-headedness under pressure.)"
+    "(But no amount of training could quell the unease gnawing at him.)"
+    "(His thoughts drifted to the application form he had filled out months ago—the only thing that had kept his mind occupied since...)"
+    "(Since the accident.)"
+    window hide
+    jump PS3
+    return
+
+label PS3:
+ 
 
     return
