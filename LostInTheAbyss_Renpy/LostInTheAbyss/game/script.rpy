@@ -2,8 +2,8 @@
 
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
-#image Daichi = "Daichi_Suit.png"
-#image Aoi = "Aoi_Suit.png"
+image Daichi = "Daichi_Suit.png"
+image Aoi = "Aoi_Suit.png"
 
 transform ShakeEffect():
     on show:
@@ -500,7 +500,9 @@ label C1S3A:
     pause 3.0
     aoi "(What are we awakening down here?)"
     pause 5.0
-    "End of Demo"
+    jumo C2S1A
 
-
+    return
+label C2S1A:
+    
     return
