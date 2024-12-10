@@ -1,24 +1,28 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 263, in script
-    Miyu "(Miyu: Are you ready for this?)"
-Exception: Sayer 'Miyu' is not defined.
+  File "game/script.rpy", line 392, in script
+    with quake
+  File "game/script.rpy", line 392, in <module>
+    with quake
+NameError: name 'quake' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 263, in script
-    Miyu "(Miyu: Are you ready for this?)"
-  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ast.py", line 2579, in execute
-    Say.execute(self)
-  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ast.py", line 581, in execute
-    who = eval_who(self.who, self.who_fast)
-  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ast.py", line 470, in eval_who
-    raise Exception("Sayer '%s' is not defined." % who)
-Exception: Sayer 'Miyu' is not defined.
+  File "game/script.rpy", line 392, in script
+    with quake
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ast.py", line 1360, in execute
+    trans = renpy.python.py_eval(self.expr)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\python.py", line 1209, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\python.py", line 1202, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 392, in <module>
+    with quake
+NameError: name 'quake' is not defined
 
 Windows-10-10.0.22000 AMD64
 Ren'Py 8.3.4.24120703
 LostInTheAbyss 1.0
-Tue Dec 10 02:30:09 2024
+Tue Dec 10 09:59:10 2024

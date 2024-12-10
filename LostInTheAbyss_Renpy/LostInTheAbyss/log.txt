@@ -1,18 +1,17 @@
-2024-12-09 17:39:26 UTC
+2024-12-10 01:03:27 UTC
 Windows-10-10.0.22000
 Ren'Py 8.3.4.24120703
 
 Early init took 0.21s
-Loading error handling took 0.13s
-Loading script took 0.75s
-Loading save slot metadata took 0.33s
+Loading error handling took 0.15s
+Loading script took 0.70s
+Loading save slot metadata took 0.36s
 Loading persistent took 0.00s
-Running init code took 0.23s
+Running init code took 0.25s
 Loading analysis data took 0.05s
-Analyze and compile ATL took 0.01s
-Reloading save slot metadata took 0.29s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.30s
 Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
 Dump and make backups took 0.15s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
@@ -20,17 +19,185 @@ Initial gc took 0.06s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.01s
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.08s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.06s
+Running _start took 0.00s
+Interface start took 0.25s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 749.56s
+Loading error handling took 0.16s
+Loading script took 2.50s
+Loading save slot metadata took 0.30s
+Loading persistent took 0.00s
+Running init code took 0.34s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.27s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.01s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 801.72s
+Loading error handling took 0.04s
+Loading script took 0.32s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.05s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
 Cleaning stores took 0.00s
 Init translation took 0.07s
 Build styles took 0.00s
-Load screen analysis took 0.02s
+Load screen analysis took 0.00s
 Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.15s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.05s
-Running _start took 0.01s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 836.15s
+Loading error handling took 0.04s
+Loading script took 0.34s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.08s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 882.78s
+Loading error handling took 0.04s
+Loading script took 0.28s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.05s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
 Interface start took 0.12s
 
 Initializing gl2 renderer:
@@ -46,22 +213,23 @@ Maximum texture size: 4096x4096
 Cleaning stores took 0.00s
 Init translation took 0.00s
 Build styles took 0.01s
-Load screen analysis took 0.10s
+Load screen analysis took 0.05s
 Analyze screens took 0.00s
 Prepare screens took 0.00s
 Running _start took 0.00s
 Resetting cache.
-Early init took 330.02s
-Loading error handling took 0.06s
-Loading script took 0.26s
+Early init took 1042.81s
+Loading error handling took 0.04s
+Loading script took 0.32s
 Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
-Running init code took 0.06s
-Loading analysis data took 0.02s
+Running init code took 0.08s
+Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.06s
 Index archives took 0.00s
-Dump and make backups took 0.11s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.10s
@@ -70,65 +238,16 @@ nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.01s
-Load screen analysis took 0.05s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.15s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.06s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
-Resetting cache.
-Early init took 349.51s
-Loading error handling took 0.07s
-Loading script took 0.31s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.14s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.11s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
+Init translation took 0.06s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.03s
 Save screen analysis took 0.04s
-Prepare screens took 0.16s
+Prepare screens took 0.14s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
+Save bytecode. took 0.03s
 Running _start took 0.00s
-Interface start took 0.09s
+Interface start took 0.13s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -141,60 +260,18 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 382.57s
-Loading error handling took 0.06s
+Early init took 1070.84s
+Loading error handling took 0.05s
 Loading script took 0.30s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.01s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.13s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.11s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.08s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.17s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 401.66s
-Loading error handling took 0.07s
-Loading script took 0.31s
 Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
-Running init code took 0.09s
-Loading analysis data took 0.03s
+Running init code took 0.07s
+Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.06s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.13s
+Dump and make backups took 0.11s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.08s
@@ -204,271 +281,15 @@ nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
 Init translation took 0.07s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.16s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.10s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 503.02s
-Loading error handling took 0.05s
-Loading script took 0.31s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.09s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.15s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.10s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.11s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.05s
-Prepare screens took 0.19s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.10s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 522.16s
-Loading error handling took 0.04s
-Loading script took 0.31s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-Running init code took 0.10s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.17s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.17s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.12s
 Build styles took 0.01s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
-Save screen analysis took 0.04s
-Prepare screens took 0.16s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 539.61s
-Loading error handling took 0.05s
-Loading script took 0.26s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 162: Tab characters are not allowed in Ren'Py scripts.
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.19s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 545.89s
-Loading error handling took 0.12s
-Loading script took 0.61s
-Loading save slot metadata took 0.09s
-Loading persistent took 0.00s
-Running init code took 0.13s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.09s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.22s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.12s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.16s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.10s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 608.61s
-Loading error handling took 0.05s
-Loading script took 0.34s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.09s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.15s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.09s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.08s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.19s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.09s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 811.87s
-Loading error handling took 0.05s
-Loading script took 0.42s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 172: Tab characters are not allowed in Ren'Py scripts.
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.19s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 819.79s
-Loading error handling took 0.04s
-Loading script took 0.29s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.11s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.14s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.06s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.04s
-Prepare screens took 0.14s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.03s
 Running _start took 0.00s
-Interface start took 0.08s
+Interface start took 0.13s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -481,182 +302,13 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 855.87s
+Early init took 1266.43s
 Loading error handling took 0.05s
-Loading script took 0.32s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.09s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.07s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.13s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.10s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.16s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.06s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
-Resetting cache.
-Early init took 973.05s
-Loading error handling took 0.04s
-Loading script took 0.26s
+Loading script took 0.24s
 Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
 
-File "game/script.rpy", line 169: Tab characters are not allowed in Ren'Py scripts.
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.18s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 974.76s
-Loading error handling took 0.05s
-Loading script took 0.30s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 163: end of line expected.
-    show Daichi at left with transform Grayscale
-                                       ^
-
-File "game/script.rpy", line 174: expected 'image_name_component' not found.
-    show 
-         ^
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.15s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 992.85s
-Loading error handling took 0.04s
-Loading script took 0.26s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 163: end of line expected.
-    show Daichi at left with transform Grayscale
-                                       ^
-
-File "game/script.rpy", line 174: expected 'image_name_component' not found.
-    show 
-         ^
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.14s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1015.76s
-Loading error handling took 0.04s
-Loading script took 0.27s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 12: ATL statement contains two expressions in a row; is one of them a misspelled property? If not, separate them with pass.
-    color "#888" 
-                 ^
-
-File "game/script.rpy", line 164: end of line expected.
-    show Daichi at left with transform Grayscale
-                                       ^
-
-File "game/script.rpy", line 175: expected 'image_name_component' not found.
-    show 
-         ^
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.17s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1101.12s
-Loading error handling took 0.07s
-Loading script took 0.39s
-Loading save slot metadata took 0.08s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 12: ATL statement contains two expressions in a row; is one of them a misspelled property? If not, separate them with pass.
-    color "#888" 
-                 ^
-
-File "game/script.rpy", line 164: end of line expected.
-    show Daichi at left with transform Grayscale
-                                       ^
+File "game/script.rpy", line 305: Tab characters are not allowed in Ren'Py scripts.
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
@@ -673,19 +325,17 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 1199.97s
-Loading error handling took 0.06s
-Loading script took 0.32s
-Loading save slot metadata took 0.08s
+Early init took 1274.21s
+Loading error handling took 0.04s
+Loading script took 0.24s
+Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
 
-File "game/script.rpy", line 162: end of line expected.
-    show Daichi at left with transform Grayscale
-                                       ^
+File "game/script.rpy", line 305: Tab characters are not allowed in Ren'Py scripts.
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.21s
+Interface start took 0.18s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -698,18 +348,18 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 1209.26s
+Early init took 1281.95s
 Loading error handling took 0.04s
-Loading script took 0.34s
+Loading script took 0.32s
 Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
-Running init code took 0.12s
+Running init code took 0.10s
 Loading analysis data took 0.03s
-Analyze and compile ATL took 0.01s
-Reloading save slot metadata took 0.06s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.07s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.13s
+Dump and make backups took 0.14s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.08s
@@ -718,16 +368,16 @@ nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.08s
-Build styles took 0.01s
+Init translation took 0.06s
+Build styles took 0.00s
 Load screen analysis took 0.00s
-Analyze screens took 0.03s
+Analyze screens took 0.02s
 Save screen analysis took 0.04s
-Prepare screens took 0.17s
+Prepare screens took 0.14s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.04s
 Running _start took 0.00s
-Interface start took 0.09s
+Interface start took 0.12s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -739,20 +389,13 @@ Version: b'4.6.0 - Build 31.0.101.2125'
 Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.07s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
 Resetting cache.
-Early init took 1307.11s
-Loading error handling took 0.04s
-Loading script took 0.33s
-Loading save slot metadata took 0.07s
+Early init took 1366.74s
+Loading error handling took 0.06s
+Loading script took 0.34s
+Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
-Running init code took 0.09s
+Running init code took 0.06s
 Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.06s
@@ -761,64 +404,22 @@ Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\Lo
 Dump and make backups took 0.12s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.12s
+Initial gc took 0.08s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.09s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.16s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.09s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1378.15s
-Loading error handling took 0.05s
-Loading script took 0.34s
-Loading save slot metadata took 0.08s
-Loading persistent took 0.00s
-Running init code took 0.12s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.09s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.14s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.10s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.08s
+Init translation took 0.06s
 Build styles took 0.00s
 Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.17s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.15s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
+Save bytecode. took 0.03s
 Running _start took 0.00s
-Interface start took 0.09s
+Interface start took 0.12s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -831,36 +432,36 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 1511.54s
-Loading error handling took 0.05s
-Loading script took 0.32s
-Loading save slot metadata took 0.06s
+Early init took 1462.31s
+Loading error handling took 0.04s
+Loading script took 0.30s
+Loading save slot metadata took 0.07s
 Loading persistent took 0.00s
 Running init code took 0.08s
-Loading analysis data took 0.05s
-Analyze and compile ATL took 0.01s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.06s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
 Dump and make backups took 0.13s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.10s
+Initial gc took 0.09s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.08s
+Init translation took 0.07s
 Build styles took 0.01s
 Load screen analysis took 0.00s
-Analyze screens took 0.03s
+Analyze screens took 0.04s
 Save screen analysis took 0.04s
-Prepare screens took 0.25s
+Prepare screens took 0.15s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
+Save bytecode. took 0.03s
 Running _start took 0.00s
-Interface start took 0.09s
+Interface start took 0.13s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -873,60 +474,18 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 1654.01s
-Loading error handling took 0.05s
-Loading script took 0.33s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.09s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.15s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.10s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.08s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.08s
-Save screen analysis took 0.06s
-Prepare screens took 0.17s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.09s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1699.78s
-Loading error handling took 0.05s
-Loading script took 0.34s
+Early init took 1556.42s
+Loading error handling took 0.04s
+Loading script took 0.35s
 Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
-Running init code took 0.09s
+Running init code took 0.08s
 Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
+Reloading save slot metadata took 0.05s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.12s
+Dump and make backups took 0.11s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.10s
@@ -938,13 +497,13 @@ Cleaning stores took 0.00s
 Init translation took 0.07s
 Build styles took 0.01s
 Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.16s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
+Save bytecode. took 0.03s
 Running _start took 0.00s
-Interface start took 0.09s
+Interface start took 0.12s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -957,13 +516,15 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 1791.18s
+Early init took 1628.85s
 Loading error handling took 0.04s
-Loading script took 0.27s
-Loading save slot metadata took 0.06s
+Loading script took 0.29s
+Loading save slot metadata took 0.05s
 Loading persistent took 0.00s
 
-File "game/script.rpy", line 209: Tab characters are not allowed in Ren'Py scripts.
+File "game/script.rpy", line 324: expected end of line
+    window show at left
+                   ^
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
@@ -980,16 +541,77 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 1802.01s
-Loading error handling took 0.05s
-Loading script took 0.25s
-Loading save slot metadata took 0.06s
+Early init took 1635.07s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.07s
 Loading persistent took 0.00s
-
-File "game/script.rpy", line 210: Tab characters are not allowed in Ren'Py scripts.
+Running init code took 0.11s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1738.43s
+Loading error handling took 0.05s
+Loading script took 0.33s
+Loading save slot metadata took 0.09s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.15s
+Running _start took 0.00s
 Interface start took 0.15s
 
 Initializing gl2 renderer:
@@ -1003,242 +625,18 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 1809.78s
+Early init took 1772.67s
 Loading error handling took 0.04s
 Loading script took 0.33s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.12s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.13s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.08s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.03s
-Prepare screens took 0.15s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.06s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
-Resetting cache.
-Early init took 1910.47s
-Loading error handling took 0.05s
-Loading script took 0.33s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-Running init code took 0.15s
-Loading analysis data took 0.04s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.07s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.13s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.11s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.16s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.09s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1979.00s
-Loading error handling took 0.05s
-Loading script took 0.33s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.12s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.09s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.08s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.04s
-Prepare screens took 0.17s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.09s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1988.87s
-Loading error handling took 0.05s
-Loading script took 0.35s
 Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
 Running init code took 0.10s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.13s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.11s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.16s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.09s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.06s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.01s
-Resetting cache.
-Early init took 2007.55s
-Loading error handling took 0.04s
-Loading script took 0.30s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.13s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.11s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.09s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.17s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.09s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2048.12s
-Loading error handling took 0.04s
-Loading script took 0.30s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-Running init code took 0.08s
 Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
+Reloading save slot metadata took 0.05s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.14s
+Dump and make backups took 0.12s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.09s
@@ -1247,58 +645,16 @@ nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.08s
+Init translation took 0.06s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.14s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2113.51s
-Loading error handling took 0.04s
-Loading script took 0.29s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.13s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.10s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
 Save screen analysis took 0.03s
 Prepare screens took 0.15s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.03s
 Running _start took 0.00s
-Interface start took 0.08s
+Interface start took 0.11s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -1311,394 +667,321 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 2143.30s
-Loading error handling took 0.07s
-Loading script took 0.32s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.12s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.09s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.04s
-Save screen analysis took 0.04s
-Prepare screens took 0.14s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2148.37s
+Early init took 1914.51s
 Loading error handling took 0.04s
-Loading script took 0.28s
+Loading script took 0.32s
 Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.12s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.08s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.04s
-Prepare screens took 0.14s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2209.05s
-Loading error handling took 0.05s
-Loading script took 0.35s
-Loading save slot metadata took 0.08s
 Loading persistent took 0.00s
 Running init code took 0.09s
-Loading analysis data took 0.04s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.07s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.16s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.11s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.08s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.17s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.10s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2240.74s
-Loading error handling took 0.05s
-Loading script took 0.37s
-Loading save slot metadata took 0.08s
-Loading persistent took 0.00s
-Running init code took 0.15s
-Loading analysis data took 0.05s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.15s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.12s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.08s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.05s
-Prepare screens took 0.20s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
-Running _start took 0.00s
-Interface start took 0.10s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2289.39s
-Loading error handling took 0.05s
-Loading script took 0.37s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.11s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.07s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.14s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.11s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.09s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.16s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.09s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2421.82s
-Loading error handling took 0.04s
-Loading script took 0.26s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 240: Tab characters are not allowed in Ren'Py scripts.
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.17s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2429.59s
-Loading error handling took 0.04s
-Loading script took 0.33s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-Running init code took 0.12s
 Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.13s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.09s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.08s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.04s
-Prepare screens took 0.14s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.06s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
-Resetting cache.
-Early init took 2456.63s
-Loading error handling took 0.04s
-Loading script took 0.30s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.05s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.12s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.11s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.04s
-Prepare screens took 0.14s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.05s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
-Resetting cache.
-Early init took 2597.81s
-Loading error handling took 0.05s
-Loading script took 0.51s
-Loading save slot metadata took 0.09s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.05s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.12s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.10s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.03s
-Save screen analysis took 0.03s
-Prepare screens took 0.14s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2602.93s
-Loading error handling took 0.04s
-Loading script took 0.29s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.05s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
 Dump and make backups took 0.11s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1925.75s
+Loading error handling took 0.04s
+Loading script took 0.32s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.16s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Interface start took 0.16s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2012.31s
+Loading error handling took 0.04s
+Loading script took 0.34s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.20s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.08s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.07s
+Prepare screens took 0.19s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2268.85s
+Loading error handling took 0.04s
+Loading script took 0.34s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
 Initial gc took 0.13s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2299.92s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.08s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.14s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2414.77s
+Loading error handling took 0.04s
+Loading script took 0.34s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2496.57s
+Loading error handling took 0.04s
+Loading script took 0.25s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 323: Tab characters are not allowed in Ren'Py scripts.
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.21s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2513.39s
+Loading error handling took 0.04s
+Loading script took 0.28s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 322: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "What if we can’t make it back?"
+                                    ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.19s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2542.35s
+Loading error handling took 0.04s
+Loading script took 0.35s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.11s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
@@ -1711,9 +994,9 @@ Analyze screens took 0.02s
 Save screen analysis took 0.03s
 Prepare screens took 0.13s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
+Save bytecode. took 0.03s
 Running _start took 0.00s
-Interface start took 0.08s
+Interface start took 0.12s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -1726,102 +1009,18 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 2609.33s
+Early init took 2704.23s
 Loading error handling took 0.04s
-Loading script took 0.29s
+Loading script took 0.32s
 Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
-Running init code took 0.09s
+Running init code took 0.06s
 Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.05s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
 Dump and make backups took 0.11s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.12s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.04s
-Prepare screens took 0.16s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2637.26s
-Loading error handling took 0.04s
-Loading script took 0.32s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.01s
-Reloading save slot metadata took 0.06s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.19s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.11s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.06s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
-Prepare screens took 0.15s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.09s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2677.95s
-Loading error handling took 0.04s
-Loading script took 0.29s
-Loading save slot metadata took 0.07s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.05s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.12s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.09s
@@ -1834,12 +1033,12 @@ Init translation took 0.07s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
-Save screen analysis took 0.04s
-Prepare screens took 0.15s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.03s
 Running _start took 0.00s
-Interface start took 0.08s
+Interface start took 0.12s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -1852,31 +1051,241 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 2736.10s
-Loading error handling took 0.06s
-Loading script took 0.51s
-Loading save slot metadata took 0.09s
+Early init took 2815.43s
+Loading error handling took 0.04s
+Loading script took 0.32s
+Loading save slot metadata took 0.05s
 Loading persistent took 0.00s
-Running init code took 0.12s
-Loading analysis data took 0.04s
+Running init code took 0.06s
+Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.07s
+Reloading save slot metadata took 0.06s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.19s
+Dump and make backups took 0.12s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.13s
+Initial gc took 0.08s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.09s
+Init translation took 0.07s
 Build styles took 0.01s
 Load screen analysis took 0.00s
-Analyze screens took 0.05s
-Save screen analysis took 0.09s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.22s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2828.27s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2923.96s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.07s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 2980.71s
+Loading error handling took 0.04s
+Loading script took 0.32s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3006.32s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3037.92s
+Loading error handling took 0.04s
+Loading script took 0.34s
+Loading save slot metadata took 0.15s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
 Prepare screens took 0.24s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.04s
@@ -1894,12 +1303,180 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 2779.90s
+Early init took 3068.31s
+Loading error handling took 0.04s
+Loading script took 0.31s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3096.73s
 Loading error handling took 0.04s
 Loading script took 0.33s
 Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
-Running init code took 0.08s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3128.63s
+Loading error handling took 0.03s
+Loading script took 0.32s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3224.40s
+Loading error handling took 0.04s
+Loading script took 0.32s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.07s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3235.71s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
 Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.06s
@@ -1909,6 +1486,1564 @@ Dump and make backups took 0.11s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3289.93s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.15s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 392, in script
+    scene bg_submarine with shake
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ast.py", line 1363, in execute
+    paired = renpy.python.py_eval(self.paired)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\python.py", line 1209, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\python.py", line 1202, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 392, in <module>
+    scene bg_submarine with shake
+NameError: name 'shake' is not defined
+
+While running game code:
+  File "game/script.rpy", line 392, in script
+    scene bg_submarine with shake
+  File "game/script.rpy", line 392, in <module>
+    scene bg_submarine with shake
+NameError: name 'shake' is not defined
+Resetting cache.
+Early init took 3341.58s
+Loading error handling took 0.04s
+Loading script took 0.38s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.09s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.15s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.21s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 392, in script
+    with quake
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ast.py", line 1360, in execute
+    trans = renpy.python.py_eval(self.expr)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\python.py", line 1209, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\python.py", line 1202, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 392, in <module>
+    with quake
+NameError: name 'quake' is not defined
+
+While running game code:
+  File "game/script.rpy", line 392, in script
+    with quake
+  File "game/script.rpy", line 392, in <module>
+    with quake
+NameError: name 'quake' is not defined
+Resetting cache.
+Early init took 3383.51s
+Loading error handling took 0.04s
+Loading script took 0.38s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 8: invalid syntax
+    at ShakeEffect()
+        ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.23s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3501.83s
+Loading error handling took 0.04s
+Loading script took 0.46s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.10s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.20s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3555.11s
+Loading error handling took 0.04s
+Loading script took 0.34s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3592.70s
+Loading error handling took 0.04s
+Loading script took 0.34s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.05s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.05s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 3629.38s
+Loading error handling took 0.04s
+Loading script took 0.34s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3656.15s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3692.27s
+Loading error handling took 0.04s
+Loading script took 0.34s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.14s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3713.00s
+Loading error handling took 0.04s
+Loading script took 0.37s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.13s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.04s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3744.45s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3759.24s
+Loading error handling took 0.04s
+Loading script took 0.36s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3778.57s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3788.54s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3810.75s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.17s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3859.21s
+Loading error handling took 0.04s
+Loading script took 0.34s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 3861.40s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.05s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 4368.63s
+Loading error handling took 0.06s
+Loading script took 0.47s
+Loading save slot metadata took 0.08s
+Loading persistent took 0.00s
+Running init code took 0.08s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.08s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.15s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.14s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.15s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4415.49s
+Loading error handling took 0.04s
+Loading script took 0.35s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4446.43s
+Loading error handling took 0.04s
+Loading script took 0.35s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.05s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 4470.45s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.17s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.14s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4495.39s
+Loading error handling took 0.04s
+Loading script took 0.33s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.07s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4613.87s
+Loading error handling took 0.04s
+Loading script took 0.30s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 424: choice menuitem expects a non-empty block.
+    "":
+       ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.20s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4641.28s
+Loading error handling took 0.04s
+Loading script took 0.30s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 424: choice menuitem expects a non-empty block.
+    "We need to stay calm.":
+                            ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.19s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4665.65s
+Loading error handling took 0.04s
+Loading script took 0.37s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.16s
+Loading analysis data took 0.05s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.07s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.15s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.05s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4738.53s
+Loading error handling took 0.04s
+Loading script took 0.24s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 430: Tab characters are not allowed in Ren'Py scripts.
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.21s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4741.77s
+Loading error handling took 0.04s
+Loading script took 0.24s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 430: Tab characters are not allowed in Ren'Py scripts.
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.19s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4748.03s
+Loading error handling took 0.11s
+Loading script took 0.41s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.07s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.15s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.25s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4783.89s
+Loading error handling took 0.05s
+Loading script took 0.35s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4867.24s
+Loading error handling took 0.04s
+Loading script took 0.36s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4906.14s
+Loading error handling took 0.04s
+Loading script took 0.35s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4981.86s
+Loading error handling took 0.04s
+Loading script took 0.36s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.05s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 5032.17s
+Loading error handling took 0.04s
+Loading script took 0.35s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5103.21s
+Loading error handling took 0.04s
+Loading script took 0.36s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.08s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5218.92s
+Loading error handling took 0.07s
+Loading script took 0.41s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.15s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5250.13s
+Loading error handling took 0.04s
+Loading script took 0.37s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.13s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5736.23s
+Loading error handling took 0.04s
+Loading script took 0.40s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 471: expected ':' not found.
+    label C1S3A
+               ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.21s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5744.01s
+Loading error handling took 0.05s
+Loading script took 0.45s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+Running init code took 0.11s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.07s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.14s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
@@ -1936,37 +3071,12 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 2805.07s
+Early init took 5778.61s
 Loading error handling took 0.05s
-Loading script took 0.30s
-Loading save slot metadata took 0.06s
+Loading script took 0.40s
+Loading save slot metadata took 0.07s
 Loading persistent took 0.00s
-
-File "game/script.rpy", line 262: expected 'image_name_component' not found.
-    show
-        ^
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Interface start took 0.16s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2821.91s
-Loading error handling took 0.04s
-Loading script took 0.34s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-Running init code took 0.12s
+Running init code took 0.07s
 Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.06s
@@ -1975,22 +3085,22 @@ Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\Lo
 Dump and make backups took 0.12s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.08s
+Initial gc took 0.10s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.07s
+Init translation took 0.08s
 Build styles took 0.01s
 Load screen analysis took 0.00s
-Analyze screens took 0.02s
+Analyze screens took 0.03s
 Save screen analysis took 0.04s
-Prepare screens took 0.16s
+Prepare screens took 0.17s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.04s
+Save bytecode. took 0.03s
 Running _start took 0.00s
-Interface start took 0.08s
+Interface start took 0.09s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1366, 768)
@@ -2002,36 +3112,22 @@ Version: b'4.6.0 - Build 31.0.101.2125'
 Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.06s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.05s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
 Resetting cache.
-Early init took 3030.93s
+Early init took 5799.08s
 Loading error handling took 0.04s
-Loading script took 0.29s
-Loading save slot metadata took 0.06s
+Loading script took 0.39s
+Loading save slot metadata took 0.07s
 Loading persistent took 0.00s
 Running init code took 0.08s
 Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.05s
+Reloading save slot metadata took 0.06s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.11s
+Dump and make backups took 0.12s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.10s
+Initial gc took 0.16s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
@@ -2040,66 +3136,8 @@ Cleaning stores took 0.00s
 Init translation took 0.07s
 Build styles took 0.00s
 Load screen analysis took 0.00s
-Analyze screens took 0.02s
+Analyze screens took 0.03s
 Save screen analysis took 0.04s
-Prepare screens took 0.13s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
-Running _start took 0.00s
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1366, 768)
-swap interval: 1 frames
-Fullscreen mode.
-Vendor: "b'Intel'"
-Renderer: b'Intel(R) HD Graphics 520'
-Version: b'4.6.0 - Build 31.0.101.2125'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
-Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/script.rpy", line 263, in script
-    Miyu "(Miyu: Are you ready for this?)"
-  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ast.py", line 2579, in execute
-    Say.execute(self)
-  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ast.py", line 581, in execute
-    who = eval_who(self.who, self.who_fast)
-  File "C:\Users\jhunm\Documents\renpy-8.3.4-sdk\renpy\ast.py", line 470, in eval_who
-    raise Exception("Sayer '%s' is not defined." % who)
-Exception: Sayer 'Miyu' is not defined.
-
-While running game code:
-  File "game/script.rpy", line 263, in script
-    Miyu "(Miyu: Are you ready for this?)"
-Exception: Sayer 'Miyu' is not defined.
-Resetting cache.
-Early init took 3061.41s
-Loading error handling took 0.04s
-Loading script took 0.30s
-Loading save slot metadata took 0.06s
-Loading persistent took 0.00s
-Running init code took 0.08s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.05s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
-Dump and make backups took 0.11s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.09s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.01s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.03s
 Prepare screens took 0.15s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.03s
@@ -2117,33 +3155,34 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 3389.03s
-Loading error handling took 0.04s
-Loading script took 0.22s
-Loading save slot metadata took 0.05s
+Early init took 5939.21s
+Loading error handling took 0.05s
+Loading script took 0.43s
+Loading save slot metadata took 0.09s
 Loading persistent took 0.00s
 Running init code took 0.07s
-Loading analysis data took 0.02s
+Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.05s
+Reloading save slot metadata took 0.07s
 Index archives took 0.00s
-Dump and make backups took 0.11s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.14s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.08s
+Initial gc took 0.11s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
 Init translation took 0.07s
-Build styles took 0.00s
-Load screen analysis took 0.05s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.13s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.16s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
+Save bytecode. took 0.03s
 Running _start took 0.00s
 Interface start took 0.08s
 
@@ -2157,10 +3196,74 @@ Version: b'4.6.0 - Build 31.0.101.2125'
 Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
 Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6035.04s
+Loading error handling took 0.07s
+Loading script took 0.41s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 503: Tab characters are not allowed in Ren'Py scripts.
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.23s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6045.95s
+Loading error handling took 0.04s
+Loading script took 0.40s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.10s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\jhunm\\AppData\\Roaming/RenPy/backups\\LostInTheAbyss':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.04s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
 Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1366, 768)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.6.0 - Build 31.0.101.2125'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(681, 666) drawable=(681, 666)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1366, 697) drawable=(1366, 697)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1366, 768) drawable=(1366, 768)
+Maximum texture size: 4096x4096
