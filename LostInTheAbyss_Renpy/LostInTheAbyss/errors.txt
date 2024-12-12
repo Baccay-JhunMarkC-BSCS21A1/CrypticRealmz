@@ -2,7 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 503: Tab characters are not allowed in Ren'Py scripts.
+File "game/script.rpy", line 584: expected statement.
+    Movie(play="gui/MainMenu.webm")
+                                   ^
 
 Ren'Py Version: Ren'Py 8.3.4.24120703
-Tue Dec 10 10:44:03 2024
+Tue Dec 10 14:33:54 2024

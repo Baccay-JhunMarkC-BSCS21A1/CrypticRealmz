@@ -23,6 +23,7 @@ define kenji = Character("Kenji")
 define hana = Character("Hana")
 define gen = Character("Gen")
 define takiyo = Character("Takiyo")
+define hideyo = Character("Hideyo")
 
 # The game starts here.
 
@@ -483,7 +484,7 @@ label C1S3A:
     kawa "The pressure here is off the charts. We’re close to the bottom. I’m not sure how much longer we can stay this deep."
     show Takiyo
     takiyo "We don’t have much choice. We need to gather whatever data we can before we’re forced to turn back."
-    show Aoi
+    show Aoi at right
     aoi "Keep the systems running. Satoshi, check for any signs of damage."
     window hide
     pause 1.5
@@ -500,9 +501,85 @@ label C1S3A:
     pause 3.0
     aoi "(What are we awakening down here?)"
     pause 5.0
-    jumo C2S1A
+    jump C2S1A
 
     return
 label C2S1A:
-    
+    "(The deep ocean was a silent expanse around them, swallowing the sound of their breaths as Hana and Gen moved cautiously toward the massive gate.)"
+    "(The city lay before them, its ancient walls half-buried in strange coral formations, giving the eerie impression of a long-dead place that had been preserved in the deep sea’s cold embrace.)"
+    "(The faint glow from their helmets illuminated only a small fraction of the city’s true size. It was unlike anything they had ever seen. There was no turning back now.)"
+    window hide
+    pause 3.0
+    scene bg_ruingate
+    with fade
+    show Hana at left
+    hana "This place... It's too quiet. Like it’s waiting for us"
+    "(Hana reached out, her gloved fingers brushing the cold stone of the gate. A sharp shiver ran through her, not from the temperature, but from the deep unease that gnawed at her. There was something off about this place—too silent, too still.)"
+    show Gen at right
+    gen "Yeah, it's like the ocean is holding its breath. No currents, no sounds. Just us and this... gate."
+    "(Gen turned his head sharply, his own eyes scanning the surroundings. He nodded in agreement, though he didn’t want to admit it out loud.)"
+    "(They both paused, staring at the gate as if it were some kind of barrier between them and the unknown. Something felt wrong—something in the way the symbols etched into the stone seemed to pulse, faintly glowing as they watched.)"
+    window hide
+    hide Hana
+    hide Gen
+    scene black
+    jump C2S2A
+    return
+label C2S2A:
+    scene bg_submarine
+    with fade
+    pause 3.0
+    window show
+    show Aoi at left
+    "(Aoi was watching the feed from the outside, his hand resting on the console. His gaze flicked from the live camera feed to the faces of the crew around him, before landing on the deep, foreboding gate outside.)"
+    aoi "This gate... It looks like it’s been here for centuries. But these symbols…"
+    aoi "Hideyo, any idea what they mean?"
+    show Hideyo at right
+    "(Hideyo’s eyes narrowed, and he leaned closer to his monitor, scanning the strange symbols. There was an unsettling hesitation in his voice when he finally spoke.)"
+    hideyo "It’s ancient, no doubt. But these symbols are unlike anything I’ve seen before. I could try to decode them, but... I don’t know what might unlock if I’m wrong. Some of these symbols, Aoi... they don’t just make me uneasy—they feel... wrong"
+    window hide
+    show Daichi
+    pause 1.5
+    window show
+    daichi "This is a monumental discovery, Aoi. We’re standing before something the world has never seen. Don’t let fear get in the way of history."
+    daichi "We came here to explore the unknown, and that’s what we’ll do. We push forward."
+    hide Aoi
+    show Aoi at left
+    hide Daichi
+    hide Hideyo
+    window hide
+    pause 1.5
+    window show
+    aoi "*whispering* This mission was critical. But was it worth pushing forward blindly? The city could be ancient, but it was also dangerous."
+    window hide
+    menu:
+        "Let’s push forward":
+            aoi "We’re not turning back. We came here to uncover something no one else has ever seen. Let’s push forward—keep your wits about you, but we’re not stopping now"
+            window hide
+            pause 1.0
+            
+        "Let’s not rush in":
+            aoi "Let’s not rush in. I want a full assessment of the gate before we proceed. I don’t trust that it’s as simple as it looks. We need more data first"
+            window hide
+            pause 2.0
+            show Daichi at right
+            window show
+            daichi "We’ve come this far, Aoi. We didn’t fly halfway across the world to hesitate. This isn’t the time to be cautious. We need to act now before we lose our edge."
+            window hide
+            pause 1.0
+    scene black
+    with fade
+    pause 5.0
+    "???" "Wait-"
+    "???" "Wait- WAIT!"
+    pause 1.0
+    "???" "AOI! DON'T!"
+    pause 5.0
+    "???" "They'll kill you-"
+    pause 5.0
+    "???" "You don't know what you're doing!"
+    pause 5.0
+    "???" "..."
+    pause 5.0
+    "End of the demo."
     return
